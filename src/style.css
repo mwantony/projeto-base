@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 90%;
+    height: 400px;
+}
+
+.carrosel {
+    margin-top: 3.5rem;
+}
+
+#marca-cor {
+    color: darkred;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', sans-serif;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+#botao-cor-especial {
+    background-color: darkred;
+    color: #FFF;
+    border-radius: .75rem;
+}
+
+
+#botao-modal {
+    background-color: darkred;
+    color: #FFF;
+    border: none;
+    transform: scale(1.1);
+    margin-left: 1rem;
+}
+#borda-cor-especial {
+    border-color: darkred;
+    max-width: 18rem;
+}
+
+
+
+#card-posicao-imagem {
+    object-fit: cover;
+/*     object-position: 0 90%;
+ */    height: 200px;
+}
+
+.contato:hover {
+    cursor: pointer;
+}
+
